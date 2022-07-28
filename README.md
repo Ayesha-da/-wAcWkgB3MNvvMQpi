@@ -26,3 +26,5 @@ X6 = the app makes ordering easy for me
  (0.1454983887284093, 'X6'),
  
  (0.1406679127558683, 'X4')
+
+#### Recieved 73% Accuracy using Random Forest Classifier.
